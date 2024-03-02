@@ -1,4 +1,4 @@
-# RailFenceCipher_c-
+# RailFenceCipher
 
 The Rail Fence Cipher is a transposition cipher that jumbles up the order of the letters of a message in a zigzag pattern. This simple encryption technique can be applied repeatedly to enhance security.
 
